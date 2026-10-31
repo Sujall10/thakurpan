@@ -1,0 +1,21 @@
+{
+  "name": "Thakur Pan",
+  "short_name": "Thakur Pan",
+  "description": "The best spot in Vadodara \u2014 30+ paan varieties, 50+ sodas & mocktails.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07130c",
+  "theme_color": "#07130c",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
